@@ -47,6 +47,20 @@ Developed by: Rajamanikandan R
 RegisterNumber: 212223220082
 */
 
+```
+module de11(out,clk,rstn);
+input clk,rstn;
+output reg [3:0]out;
+always @ (posedge clk)
+begin
+   if(!rstn)
+     out<=0;
+   else 
+     out <= out+1;
+end
+endmodule
+```
+
 **RTL LOGIC UP COUNTER**
 
 ![image](https://github.com/user-attachments/assets/b96bf9b9-c0e7-4fc7-ad0b-840115a40ad2)
