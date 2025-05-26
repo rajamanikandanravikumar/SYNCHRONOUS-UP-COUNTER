@@ -74,7 +74,8 @@ endmodule
 
 **TRUTH TABLE**
 
-![image](https://github.com/user-attachments/assets/a8d31b38-e999-46b3-9597-4845d232f05c)
+![image](https://github.com/user-attachments/assets/a70ecc62-a189-442b-a56b-3bda07f204a8)
+
 
 
 **RESULTS**
